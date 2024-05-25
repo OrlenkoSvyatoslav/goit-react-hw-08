@@ -1,0 +1,17 @@
+.container {
+  border: 1px solid black;
+  padding: 10px;
+  width: 300px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  height: 70px;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.btn {
+  width: 70px;
+  height: 30px;
+}
